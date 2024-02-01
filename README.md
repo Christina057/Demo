@@ -1,7 +1,6 @@
-<h1 align="center" color="#0000FF">crudGenByPath</h1>
+<h1 align="center" style="color: #0000FF;">crudGenByPath</h1>
 
 [![KeshavSoft Logo](./KesavSoft.jpg)](https://keshavsoft.com/)
-
 
 ## **Table of Contents** 📚
 - [Overview](#overview)
@@ -12,19 +11,31 @@
 - [Folder Structure](#folder-structure)
 - [Purpose of the Project](#purpose-of-the-project)
 - [Important Points](#important-points)
+
 ## **Overview** 🔎
 This project focuses on automating CRUD operations for JSON files, making it easy to manage and manipulate data. It offers a user-friendly interface for performing essential actions on JSON files, such as creating, reading, updating, and deleting records.
-#### **Key Features** 
+
+#### **Key Features**
 - **Dynamic Schema Handling:** Define table schemas using JSON files and dynamically generate CRUD operations.
 - **Cross-Platform Compatibility:** Compatible with Windows, Mac, and Linux operating systems.
 - **Effortless Setup:** Use provided batch files for Windows or simple commands for other OS to set up the project quickly.
 - **Secure Storage:** Utilizes SQLite for data storage with a configurable password (KS_SQLITE_PASSWORD=9848163021).
 - **Automatic Frontend Setup:** Automatically creates a frontend codebase in the public/JsonCRUD directory.
-#### **Technologies Used** 
+
+#### **Technologies Used**
 - **Node.js:** Leveraging the power of JavaScript on the server-side.
 - **Express.js:** A minimal and flexible Node.js web application framework for building robust APIs.
 - **SQLite:** A lightweight, file-based database for efficient data storage.
 - **npm:** The package manager for Node.js used for installing project dependencies.
+
+## **Installation** 🚀
+
+1. Create a folder and navigate into it using the command prompt.
+
+2. Clone the repository
+   ```bash
+   git clone https://github.com/keshavsoft/crudGenByPath.git
+
 
 ## **Installation** 🚀
 
