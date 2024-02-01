@@ -29,7 +29,7 @@ This project focuses on automating CRUD operations for JSON files, making it eas
 - **npm:** The package manager for Node.js used for installing project dependencies.
 
 
-### <a name="overview"></a>## **Installation** 🚀
+### <a name="installation"></a>## **Installation** 🚀
 
 1. Create a folder and navigate into it using the command prompt.
 
@@ -75,7 +75,7 @@ This project focuses on automating CRUD operations for JSON files, making it eas
       npm run start
    
    ```
-### <a name="overview"></a>## **Folder Structure**
+### <a name="folder-structure"></a>## **Folder Structure**
 
 ```plaintext
 ├── KCode/
@@ -100,9 +100,9 @@ This project focuses on automating CRUD operations for JSON files, making it eas
 ├── .env
 └── README.md
 ```
-### <a name="overview"></a>## **Purpose of the Project** 🎯
+### <a name="purpose-of-the-project"></a>## **Purpose of the Project** 🎯
 The primary objective is to simplify the process of managing and interacting with JSON files. By automating CRUD operations, this project aims to enhance efficiency and reduce the complexity of handling JSON data.
-### <a name="overview"></a>## **Important Points** 
+### <a name="important-points"></a>## **Important Points** 
 Date: 24 Jan 2024
 Stopped using encrypted SQLite database due to the unavailability of npm modules and limited knowledge within the team.
 
