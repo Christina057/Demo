@@ -28,14 +28,6 @@ This project focuses on automating CRUD operations for JSON files, making it eas
 - **SQLite:** A lightweight, file-based database for efficient data storage.
 - **npm:** The package manager for Node.js used for installing project dependencies.
 
-## **Installation** 🚀
-
-1. Create a folder and navigate into it using the command prompt.
-
-2. Clone the repository
-   ```bash
-   git clone https://github.com/keshavsoft/crudGenByPath.git
-
 
 ## **Installation** 🚀
 
