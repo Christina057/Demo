@@ -3,7 +3,7 @@
 [![KeshavSoft Logo](https://github.com/Christina057/Movierecommendation/blob/master/-%20KeshavSoft%20-.jpg)](https://keshavsoft.com/)
 
 ## **Table of Contents** 📚
-- [Overview](#Overview)
+- [Overview](#overview)
 - [Installation](#installation)
   - [Cloning the Repository](#cloning-the-repository)
   - [Setting Environment Variables](#setting-environment-variables)
