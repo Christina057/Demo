@@ -11,6 +11,7 @@
 - [Folder Structure](#folder-structure)
 - [Purpose of the Project](#purpose-of-the-project)
 - [Important Points](#important-points)
+- [Installing the REST Client Extension](./README_rest_client.md)
 
 ### <a name="overview"></a>## **Overview** 🔎
 This project focuses on automating CRUD operations for JSON files, making it easy to manage and manipulate data. It offers a user-friendly interface for performing essential actions on JSON files, such as creating, reading, updating, and deleting records.
